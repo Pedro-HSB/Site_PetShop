@@ -1,0 +1,39 @@
+body{
+	background-color: #76fad2;
+    background-image: url(fundo.PNG);
+}
+#pos{
+    text-align: center;
+}
+
+#marca{
+    padding: 10, 10, 10;
+    width: 17%;
+    margin: auto; 
+    text-align: center;
+}
+#corpo{
+    box-shadow: 10px, 10px;
+    padding: 20px;
+    background-color: whitesmoke;
+    padding: auto;
+    width: 85%;
+    margin: auto;
+}
+
+#texto{
+    background-color: whitesmoke;
+    padding: auto;
+    width: 85%;
+    margin: auto;
+    
+}
+#servicos{
+    font-size: 30px;
+    padding: 20px;
+    background-color: whitesmoke;
+    padding: auto;
+    width: 85%;
+    margin: auto;
+
+}
