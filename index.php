@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -26,10 +28,11 @@
 </div>
 
 <div id= servicos>
-<h3><li id= bt><a href=>Banho e Tosa</a></li> </h3>
+<h3><li id= bt><a href= >Banho e Tosa</a></li> </h3>
 <h3><li id= bt><a href=>Consultas</a></li> </h3>
 <h3><li id= bt><a href=>Produtos</a></li> </h3>
-<h3><li id= bt><a href=>Contatos</a></li> </h3>
+<h3><li id= bt><a href= teste2.php>Contatos</a></li> </h3>
+
 
 </div>
 </div>
